@@ -1,1 +1,24 @@
-
+{
+"Title": "فیلترشکن جدید و پرسرعت 😍",
+"Description": "* فیلترشکن جدید و پرسرعت با نام Zeta Vpn منتشر شد که مناسب تمام اپراتورهاست ، درصورت تمایل بر روی دانلود کلیک کنید 👇🏻",
+"Link": "https://t.me/Vpn_Shield/11647",
+"ColorWave": "#00eaff",
+"Color": "#00ffdd",
+"ColorWaveTwo": "#00ffdd",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "true",
+"MessageID": "185792108410",
+"ShowTime": "5",
+"Button": " دانلود مستقیم ",
+"ButtonCancell": " نیاز ندارم ",
+"Closure": "true",
+"Show": "on"
+}
